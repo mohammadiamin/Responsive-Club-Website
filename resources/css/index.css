@@ -128,7 +128,7 @@ header a:active {
         order: 1;
         font-size: 3.125rem;
         width: 70%;
-        text-align: justify;
+        text-align: left;
         margin-left: 10px;
         letter-spacing: normal;
     } 
