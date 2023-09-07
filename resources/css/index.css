@@ -110,9 +110,7 @@ header a:active {
 @media only screen and (max-width: 560px) {
     .landing {
     flex-direction: column;
-    background-image: url(../images/beyza-yilmaz-3TiDMGKELz4-unsplash.jpg);
-    background-size: contain; 
-    background-attachment: fixed;    
+
     }
     .landing p {
         order: 2;
@@ -152,8 +150,7 @@ header a:active {
 }
 #about {
     background-image: url(../images/pixelsnap-visualz-photography-6zvFLmlm9kc-unsplash.jpg);
-    background-size: contain; 
-    background-attachment: fixed;
+    background-attachment: noset;
     color: white;
 }
 
