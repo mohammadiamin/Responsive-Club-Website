@@ -153,6 +153,7 @@ header a:active {
 #about {
     background-image: url(../images/pixelsnap-visualz-photography-6zvFLmlm9kc-unsplash.jpg);
     background-size: cover; 
+    background-attachment: fixed;
     color: white;
 }
 
