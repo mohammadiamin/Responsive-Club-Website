@@ -110,7 +110,6 @@ header a:active {
 @media only screen and (max-width: 560px) {
     .landing {
     flex-direction: column;
-    background-attachment: scroll ;
 
     }
     .landing p {
