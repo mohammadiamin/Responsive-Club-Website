@@ -111,7 +111,7 @@ header a:active {
     .landing {
     flex-direction: column;
     background-image: url(../images/beyza-yilmaz-3TiDMGKELz4-unsplash.jpg);
-    background-size: cover;
+    background-size: contain; 
     background-attachment: fixed;    
     }
     .landing p {
@@ -152,7 +152,7 @@ header a:active {
 }
 #about {
     background-image: url(../images/pixelsnap-visualz-photography-6zvFLmlm9kc-unsplash.jpg);
-    background-size: cover; 
+    background-size: contain; 
     background-attachment: fixed;
     color: white;
 }
