@@ -110,6 +110,9 @@ header a:active {
 @media only screen and (max-width: 560px) {
     .landing {
     flex-direction: column;
+    background-image: url(../images/beyza-yilmaz-3TiDMGKELz4-unsplash.jpg);
+    background-size: cover;
+    background-attachment: fixed;    
     }
     .landing p {
         order: 2;
